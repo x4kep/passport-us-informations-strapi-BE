@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "visainformations",
+  "info": {
+    "singularName": "visainformation",
+    "pluralName": "visainformations",
+    "displayName": "visainformation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "string"
+    },
+    "photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "familyName": {
+      "type": "string"
+    },
+    "otherFirstName": {
+      "type": "string"
+    },
+    "otherLastName": {
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "type": "date"
+    },
+    "cityOfBirth": {
+      "type": "string"
+    },
+    "countryOfBirth": {
+      "type": "string"
+    }
+  }
+}
