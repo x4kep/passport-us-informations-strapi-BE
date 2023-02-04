@@ -4,7 +4,8 @@
   "info": {
     "singularName": "visainformation",
     "pluralName": "visainformations",
-    "displayName": "visainformation"
+    "displayName": "visainformation",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,16 +14,6 @@
   "attributes": {
     "email": {
       "type": "string"
-    },
-    "photo": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": false
     },
     "firstName": {
       "type": "string"
@@ -36,13 +27,16 @@
     "otherLastName": {
       "type": "string"
     },
-    "dateOfBirth": {
-      "type": "date"
-    },
     "cityOfBirth": {
       "type": "string"
     },
     "countryOfBirth": {
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "type": "string"
+    },
+    "photo": {
       "type": "string"
     }
   }
