@@ -38,6 +38,72 @@
     },
     "photo": {
       "type": "string"
+    },
+    "countryOfCitizenship": {
+      "type": "string"
+    },
+    "issuingCountry": {
+      "type": "string"
+    },
+    "passportNumber": {
+      "type": "string"
+    },
+    "passportIssuanceDate": {
+      "type": "string"
+    },
+    "passportExpirationDate": {
+      "type": "string"
+    },
+    "nationalIdentificationNumber": {
+      "type": "string"
+    },
+    "personalIdentificationNumber": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "issuedPassportByOtherCountry": {
+      "type": "string"
+    },
+    "issuedPassportByOtherCountryIssuingCountry": {
+      "type": "string"
+    },
+    "issuedPassportByOtherCountryDocumentNumber": {
+      "type": "string"
+    },
+    "issuedPassportByOtherCountryDocumentType": {
+      "type": "string"
+    },
+    "issuedPassportByOtherCountryExpirationYear": {
+      "type": "string"
+    },
+    "areYouCitizenOfOtherCountry": {
+      "type": "string"
+    },
+    "areYouCitizenOfOtherCountryCitizenshipNationality": {
+      "type": "string"
+    },
+    "areYouCitizenOfOtherCountryAcquireCitizenship": {
+      "type": "string"
+    },
+    "haveYouEverBeenCitizenOfOtherCountry": {
+      "type": "string"
+    },
+    "haveYouEverBeenCitizenOfOtherCountryCitizenshipNationality": {
+      "type": "string"
+    },
+    "haveYouEverBeenCitizenOfOtherCountryFrom": {
+      "type": "string"
+    },
+    "haveYouEverBeenCitizenOfOtherCountryTo": {
+      "type": "string"
+    },
+    "memberOfCbpPassId": {
+      "type": "string"
+    },
+    "memberOfCbp": {
+      "type": "string"
     }
   }
 }
