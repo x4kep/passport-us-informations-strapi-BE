@@ -170,6 +170,27 @@
     },
     "firstGivenNameSecond": {
       "type": "string"
+    },
+    "socialMedia": {
+      "type": "string"
+    },
+    "facebookPage": {
+      "type": "string"
+    },
+    "linkedInProfile": {
+      "type": "string"
+    },
+    "twitterUserId": {
+      "type": "string"
+    },
+    "instagramUserId": {
+      "type": "string"
+    },
+    "platform": {
+      "type": "string"
+    },
+    "socialMediaIdentifier": {
+      "type": "string"
     }
   }
 }
