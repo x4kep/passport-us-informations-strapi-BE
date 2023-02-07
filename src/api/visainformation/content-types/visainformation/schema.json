@@ -191,6 +191,33 @@
     },
     "socialMediaIdentifier": {
       "type": "string"
+    },
+    "currentOrPreviousEmployer": {
+      "type": "string"
+    },
+    "jobTitle": {
+      "type": "string"
+    },
+    "employerName": {
+      "type": "string"
+    },
+    "addressLineFirstEmployer": {
+      "type": "string"
+    },
+    "addressLineSecondEmployer": {
+      "type": "string"
+    },
+    "cityEmployer": {
+      "type": "string"
+    },
+    "stateProvinceRegionEmployer": {
+      "type": "string"
+    },
+    "countryEmployer": {
+      "type": "string"
+    },
+    "countryPhoneEmployer": {
+      "type": "string"
     }
   }
 }
