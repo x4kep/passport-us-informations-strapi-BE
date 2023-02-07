@@ -134,6 +134,42 @@
     },
     "travelToCuba": {
       "type": "string"
+    },
+    "addressLineFirst": {
+      "type": "string"
+    },
+    "addressLineSecond": {
+      "type": "string"
+    },
+    "apartmentNumber": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "stateProvinceRegion": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "telephoneType": {
+      "type": "string"
+    },
+    "countryPhone": {
+      "type": "string"
+    },
+    "familyNameFirst": {
+      "type": "string"
+    },
+    "firstGivenNameFirst": {
+      "type": "string"
+    },
+    "familyNameSecond": {
+      "type": "string"
+    },
+    "firstGivenNameSecond": {
+      "type": "string"
     }
   }
 }
