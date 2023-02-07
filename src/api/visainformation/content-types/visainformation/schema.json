@@ -104,6 +104,36 @@
     },
     "memberOfCbp": {
       "type": "string"
+    },
+    "physicalOrMentalDisorder": {
+      "type": "string"
+    },
+    "arrestedOrConvictedCrime": {
+      "type": "string"
+    },
+    "possessingIllegalDrugs": {
+      "type": "string"
+    },
+    "seekTerroristicActivities": {
+      "type": "string"
+    },
+    "committedFraud": {
+      "type": "string"
+    },
+    "seekingEmployment": {
+      "type": "string"
+    },
+    "haveYouEverBeenDeniedUSVisa": {
+      "type": "string"
+    },
+    "stayedLongerInUSAdmissionPeriod": {
+      "type": "string"
+    },
+    "travelInIranIraqKublaiNorthKorea": {
+      "type": "string"
+    },
+    "travelToCuba": {
+      "type": "string"
     }
   }
 }
