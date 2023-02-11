@@ -90,6 +90,9 @@
     "haveYouEverBeenCitizenOfOtherCountry": {
       "type": "string"
     },
+    "haveYouEverBeenCitizenOfOtherCountryCitizenshipNationality": {
+      "type": "string"
+    },
     "haveYouEverBeenCitizenOfOtherCountryFrom": {
       "type": "string"
     },
