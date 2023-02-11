@@ -269,6 +269,18 @@
     },
     "knowWhereYouGonnaStayUseSameAddressState": {
       "type": "string"
+    },
+    "createSecurityPin": {
+      "type": "string"
+    },
+    "securityQuestion": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    },
+    "signatureOfApplication": {
+      "type": "string"
     }
   }
 }
