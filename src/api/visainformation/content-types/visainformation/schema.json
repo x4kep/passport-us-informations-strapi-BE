@@ -218,6 +218,57 @@
     },
     "countryPhoneEmployer": {
       "type": "string"
+    },
+    "travelOccurringTransitAnotherCountry": {
+      "type": "string"
+    },
+    "lessThen24Hours": {
+      "type": "string"
+    },
+    "intendedDateOfDeparture": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStay": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayName": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayAddressLineFirst": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayAddressLineSecond": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayApartmentNumber": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayCity": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayState": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayPhoneNumber": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayUseSameAddress": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayUseSameAddressAddressLineFirst": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayUseSameAddressAddressLineSecond": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayUseSameAddressApartmentNumber": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayUseSameAddressCity": {
+      "type": "string"
+    },
+    "knowWhereYouGonnaStayUseSameAddressState": {
+      "type": "string"
     }
   }
 }
