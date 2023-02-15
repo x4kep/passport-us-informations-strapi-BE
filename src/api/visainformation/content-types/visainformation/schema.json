@@ -36,9 +36,6 @@
     "dateOfBirth": {
       "type": "string"
     },
-    "photo": {
-      "type": "string"
-    },
     "countryOfCitizenship": {
       "type": "string"
     },
@@ -281,6 +278,17 @@
     },
     "signatureOfApplication": {
       "type": "string"
+    },
+    "photo": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
