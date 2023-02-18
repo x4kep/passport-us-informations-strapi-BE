@@ -1,10 +1,9 @@
 module.exports = {
   async afterCreate(event) {
     const { result } = event;
-    console.log(result);
     try {
       await strapi.plugins["email"].services.email.send({
-        to: "dusan.veselinovic.dev@gmail.com",
+        to: "dusan.veselinovic.dev@gmail.com", // e.g. to be defined client email
         from: "visaforminformation@gmail.com", //e.g. single sender verification in SendGrid
         subject: `Client email: ${result.email}`,
         html: `<p>From: ${result.name}</p>

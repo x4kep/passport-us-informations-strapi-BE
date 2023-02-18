@@ -87,9 +87,6 @@
     "haveYouEverBeenCitizenOfOtherCountry": {
       "type": "string"
     },
-    "haveYouEverBeenCitizenOfOtherCountryCitizenshipNationality": {
-      "type": "string"
-    },
     "haveYouEverBeenCitizenOfOtherCountryFrom": {
       "type": "string"
     },
@@ -283,7 +280,12 @@
       "type": "media",
       "multiple": true,
       "required": false,
-      "allowedTypes": ["images", "files", "videos", "audios"]
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
