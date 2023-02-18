@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "emailsenders",
+  "info": {
+    "singularName": "emailsender",
+    "pluralName": "emailsenders",
+    "displayName": "emailsender"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "countryOfPassport": {
+      "type": "string"
+    },
+    "passportNumber": {
+      "type": "string"
+    },
+    "areYouPaidCustomer": {
+      "type": "string"
+    },
+    "reasonForContact": {
+      "type": "string"
+    },
+    "message": {
+      "type": "string"
+    }
+  }
+}
