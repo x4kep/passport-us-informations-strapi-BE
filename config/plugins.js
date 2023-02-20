@@ -3,7 +3,8 @@ module.exports = ({ env }) => ({
     config: {
       provider: "sendgrid",
       providerOptions: {
-        apiKey: env("SENDGRID_API_KEY"),
+        apiKey:
+          "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",
       },
       settings: {
         defaultFrom: "visaforminformation@gmail.com",
